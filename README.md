@@ -1,4 +1,4 @@
 Digital-clock
 =============
 
-Digital-clock repository for git digital clock
+Оваа апликација е изработена во развојната околина Microsoft Visual Studio
